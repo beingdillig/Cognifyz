@@ -1,5 +1,5 @@
-Cognifyz-_Technologies
-Restaurant Data Analysis
+##Cognifyz-_Technologies 
+#Restaurant Data Analysis
 This project is focused on analyzing restaurant data using Python. It covers a range of exploratory data analysis (EDA) techniques, statistical calculations, and visualization, with the goal of understanding trends related to restaurant ratings, cuisines, price ranges, and services like table booking and online delivery.
 
 Prerequisites To run the project, you will need to have the following Python libraries installed:
